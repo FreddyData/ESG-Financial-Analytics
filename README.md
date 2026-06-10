@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes ESG and financial performance data for **1,000 global companies** across **9 industries**, **7 regions**, and the period **2015–2025**.
+This project analyzes synthetic ESG and financial performance data for **1,000 global companies** across **9 industries**, **7 regions**, and the period **2015–2025**.
 
 The goal of the project is to explore how ESG performance differs across industries and regions, how ESG scores evolved over time, and whether financial scale is meaningfully related to sustainability performance.
 
